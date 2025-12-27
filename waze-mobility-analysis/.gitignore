@@ -1,0 +1,31 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Data files (large files should not be committed)
+data/*.csv
+data/*.rds
+data/*.xlsx
+
+# Output files
+results/*.html
+results/*.pdf
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# R package files
+*.tar.gz
+*.zip
