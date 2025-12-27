@@ -2,3 +2,6 @@
 Thumbs.db
 *.tmp
 
+.DS_Store
+Thumbs.db
+*.tmp
